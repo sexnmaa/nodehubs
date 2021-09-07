@@ -3,5 +3,5 @@ const config = require('./app/config')
 require('./app/database')
 
 app.listen(config.APP_PORT, () => {
-  console.log('port 8000 is started!');
+  console.log('Port 8000 is started!!!!!!!!!!!!!!!!');
 })
